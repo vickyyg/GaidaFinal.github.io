@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box; }
+
+html {
+  scroll-behavior: smooth; }
+
+body {
+  background-color: #0a0a0a; }
+
+.navbar-brand {
+  font-family: 'Special Elite', cursive; }
+
+h5 {
+  font-family: 'Ultra', serif;
+  color: #949ea7; }
+
+.carousel-item img {
+  width: 100%; }
+
+h1 {
+  font-family: 'Ultra', serif;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 40px;
+  color: #949ea7; }
+
+footer {
+  background-color: black;
+  padding-top: 50px;
+  margin: 0%; }
+
+.card-deck {
+  width: 100%;
+  padding-left: 20px; }
+
+.card {
+  background-color: #1f2020; }
+
+.card-text {
+  font-family: 'Outfit', sans-serif;
+  color: #949ea7; }
+
+.container {
+  min-width: 100%; }
+
+.container .card-deck {
+  min-width: 100%; }
+
+.red-social {
+  text-align: center; }
+  .red-social a {
+    text-decoration: none;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    color: white;
+    transition: fill 170ms ease-in-out;
+    font-size: 30px; }
+  .red-social:hover {
+    color: #949ea7; }
+
+.form-group {
+  padding-left: 30px;
+  width: 100%; }
+
+.form-row {
+  background-color: #1f2020;
+  width: 100%;
+  padding-left: 5px; }
+
+.enviar {
+  padding-left: 50%; }
+
+.media img {
+  height: 200px; }
+
+label {
+  font-family: 'Ultra', serif;
+  color: #949ea7; }
+
+.list-unstyled {
+  width: 100%; }
+
+.fecha {
+  font-size: 35px;
+  font-family: 'Ultra', serif;
+  color: #949ea7; }
